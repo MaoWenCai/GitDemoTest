@@ -8,5 +8,10 @@ Method()
 }
 goOn()
 {
-print "gongon"
+print "gongon123"
+}
+
+show(){
+  string name="Ð¡æ¤";
+  mehtod(name);
 }
