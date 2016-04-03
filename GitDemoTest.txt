@@ -15,3 +15,5 @@ show(){
   string name="Ð¡æ¤";
   mehtod(name);
 }
+
+234
