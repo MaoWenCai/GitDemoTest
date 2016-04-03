@@ -6,3 +6,7 @@ Method()
 {
   print  "method!!"
 }
+goOn()
+{
+print "gongon"
+}
